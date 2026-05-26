@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# === Python and virtual environment ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+venv/
+.env/
+.venv/
+env/
+
+# === IDE files ===
+.idea/
+.vscode/
+*.iml
+
+# === System files ===
+.DS_Store
+Thumbs.db
