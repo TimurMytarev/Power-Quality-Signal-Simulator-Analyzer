@@ -113,12 +113,12 @@ Upon execution, the script automatically manages and creates output directories.
 ### Signal Waveform Plot
 The script generates an oscilloscope-like view of the three-phase signal, zoomed into specific cycles to clearly display simulated power quality events (such as sags and swells):
 
-![Three-Phase Voltage Signal](plots/three_phase_signal.png)
+![Three-Phase Voltage Signal](Source%20code/plots/three_phase_signal.png)
 
 ### FFT Spectrum Plot
 The dynamic FFT analysis plots the frequency spectrum side-by-side for all three phases, allowing immediate identification of higher-order harmonics:
 
-![FFT Spectrum](plots/fft_spectrum.png)
+![FFT Spectrum](Source%20code/plots/fft_spectrum.png)
 
 ### Generated Data (Local Only)
 - `data/synthetic_three_phase.csv` — Raw time-series voltage data for all three phases.
